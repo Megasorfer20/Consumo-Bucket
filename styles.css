@@ -81,6 +81,8 @@ a{
 
 .boxing{
     height: 500px;
+    width: 80%;
+    
 }
 
 .div-inf{
@@ -122,3 +124,17 @@ h1{
     font-size: 100px;
 }
 
+.box-borders{
+    background-color: #ffefe8;
+    padding: 0.2rem;
+    margin: 0.3rem;
+    border: 5px solid #000000 
+}
+
+.black{
+    color: #000000;
+}
+
+.column-org{
+    flex-direction: column;
+}
